@@ -18,6 +18,8 @@
 
 📎 PDF: `papers/A_Style-adapted_Virtual_Try-on_Technique_for_Story_Visualization.pdf`
 
+---
+
 ### 2. A Diffusion Model-Based Character Synthesis Using a Blank Face  
 **주요 키워드**: Diffusion Model, 캐릭터 합성, 얼굴 편집, 생성형 AI  
 
@@ -26,8 +28,3 @@
 이를 통해 시각적 일관성을 유지하면서도 아티팩트를 줄인 캐릭터 생성을 목표로 합니다.
 
 📎 PDF: `papers/A_Diffusion_Model-Based_Character_Synthesis_Using_a_Blank_Face.pdf`
-
-
-## 📌 참고 사항
-- 본 저장소는 논문 및 연구 결과 정리를 위한 포트폴리오 용도로 운영됩니다.
-- 관련 코드 및 추가 실험 결과는 별도의 저장소로 공개될 수 있습니다.
